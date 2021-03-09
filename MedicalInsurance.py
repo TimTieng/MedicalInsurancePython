@@ -62,3 +62,6 @@ for name, record in medicalRecords.items():
   " year old " + record["Sex"] + " " + record["Smoker"] \
   + " with a BMI of " + str(record["BMI"]) + \
   " and insurance cost of " + str(record["InsuranceCost"]))
+
+
+  
